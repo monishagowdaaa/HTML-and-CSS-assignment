@@ -1,7 +1,5 @@
 PART A
-
-Demonstartion of the following :
-
+>Demonstartion of the following :
 1. header
 2. footer
 3. nav sections
@@ -12,5 +10,4 @@ Demonstartion of the following :
 8.Unordered list
 
 PART B
-
-Website design 
+>Website design 
