@@ -1,4 +1,5 @@
 PART A
+
 Demonstartion of the following :
 1. header
 2. footer
@@ -10,4 +11,5 @@ Demonstartion of the following :
 8.Unordered list
 
 PART B
+
 Website design 
